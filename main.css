@@ -31,11 +31,20 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,11,1) 43%, rgba
     padding: 20px;
     font-size: 18px;
 }
+
 .wrapper ul{
     list-style-type: none;
+    border: 2px solid black;
+    border-radius: 5px;
+  
+
+}
+.wrapper h3{
+    margin-top: 5px;
+  text-align: center;
 }
 .wrapper ul li{
-    padding: 5px;
+    padding: 10px;
     
 }
 
