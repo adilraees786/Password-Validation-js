@@ -38,3 +38,10 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,11,1) 43%, rgba
     padding: 5px;
     
 }
+
+.invalid{
+    color: red;
+}
+.valid{
+color: green;
+}
